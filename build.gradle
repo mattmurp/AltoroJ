@@ -1,3 +1,6 @@
+plugins {
+  id("com.hcl.security.appscan") version "1.0.10"
+}
 
 apply plugin: 'war'
 
